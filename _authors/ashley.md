@@ -1,6 +1,6 @@
 ---
 short_name: ashley
-name: Ashle
+name: Ashley
 position: Web Designer
 image: ''
 linkedin: https://www.linkedin.com/in/ashlward/
