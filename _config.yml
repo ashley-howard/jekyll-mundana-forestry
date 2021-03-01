@@ -29,7 +29,12 @@ defaults:
       layout: post
       author: sal
       avatar: /assets/images/avatar1.jpg
-
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+      
   # all pages
   - scope:
       path: "_pages"
