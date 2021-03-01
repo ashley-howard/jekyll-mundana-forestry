@@ -32,6 +32,14 @@ authors:
     bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
     email: fakemail@gmail.com
     twitter: https://twitter.com/wowthemesnet
+    
+  ashley:
+    name: Ashley
+    site: https://ashley.how
+    avatar: https://avatars.githubusercontent.com/u/38157300?s=96&v=4
+    bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    email: contact@ashley.how
+    twitter: https://twitter.com/wowthemesnet
 
 # Defaults
 defaults:
