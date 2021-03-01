@@ -20,5 +20,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- _posts/2021-03-01-this-is-my-post.md
